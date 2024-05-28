@@ -19,7 +19,7 @@ O objetivo deste projeto é explorar um conjunto de dados e extrair insights val
 
 Durante o desenvolvimento deste projeto, os seguintes resultados e insights foram obtidos:
 
-**1. Participação das marcas no mercado:** /n
+**1. Participação das marcas no mercado:** 
 O dataset inclui uma variedade de marcas, com algumas, como Alienware e Apple, representando modelos mais premium, enquanto outras, como iball e Smartron, estão mais voltadas para produtos de entrada. A marca ASUS possui elevada versatilidade com grande número de modelos de entrada e intermediários, e algumas opções de maior valor agregado. Demais marcas concentram-se nas faixas de valores mais iniciais com poucas opções mais caras.
    
 **2. Faixas de preço:** 
