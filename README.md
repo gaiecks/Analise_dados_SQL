@@ -1,4 +1,4 @@
-# Projeto de Análise de Dados com Databricks e SQL
+# Projeto de Análise de Dados com SQL no Databricks
 
 Este é um projeto de análise de dados realizado no ambiente Databricks com a linguagem SQL. Foi analisado um conjunto de dados disponibilizado na plataforma Kaggle.com, e pode ser encontrado através do link: https://www.kaggle.com/datasets/gyanprakashkushwaha/laptop-price-prediction-cleaned-dataset.
 
