@@ -7,9 +7,9 @@ Os dados são sobre notebooks (laptops), com informações sobre centenas de mod
 
 ### A análise completa juntamente com as Queries pode ser acessada via link:
 
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3679566292640692/4405525316613061/1968454162307818/latest.html
-
  [Analise_Dados_SQL](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3679566292640692/4405525316613061/1968454162307818/latest.html).
+
+ 
 ## Objetivo do Projeto
 
 O objetivo deste projeto é explorar um conjunto de dados e extrair insights valiosos através da linguagem SQL. Utilizamos técnicas de análise exploratória de dados e visualização, focando em entender um pouco mais sobre as relações de marcas e preços com algumas especificações técnicas, participação em mercado e etc.
@@ -32,7 +32,7 @@ A média de preços dos notebooks da marca Alienware é a mais alta, seguida pel
 Algumas marcas, como Asus, Lenovo, MSI, e HP têm uma grande variação de preços entre seus produtos, indicando que oferecem opções em diferentes faixas de preço para atender a uma variedade de clientes. Marcas como Apple e principalmente Alienware também apresentam um range de preços elevado, porém já iniciam seu preço mínimo num valor bem alto, indicando que buscam atingir públicos mais específicos que já podem investir em um notebook de maior valor, mesmo em seus modelos de entrada.
 
 **5. Tipo de memória RAM e preços:** 
-Embora a tecnologia DDR4 seja mais atual e geralmente mais cara, a média de preços de notebooks com DDR3 é maior. Isso se deve a uma combinação de fatores, incluindo a baixa disponibilidade de modelos DDR3 no dataset e o fato de que esses modelos podem ter especificações mais robustas, elevando seus preços.
+Embora a tecnologia DDR4 seja mais atual e geralmente mais cara (comparada com a DDR3), a média de preços de notebooks com DDR3 é maior. Isso se deve a uma combinação de fatores, incluindo a baixa disponibilidade de modelos DDR3 no dataset e o fato de que esses modelos podem ter especificações mais robustas, elevando seus preços.
 
 **6. Relação entre processadores e preços:** 
 Há uma forte relação entre o processador do notebook e seu preço, sendo que modelos equipados com processadores mais potentes, como Core i7, Core i9 e Ryzen 9, tendendo a ter preços mais altos. É possível concluir que o modelo do processador determina o preço do notebook acima dos demais fatores como o tipo de memória RAM. 
