@@ -9,7 +9,7 @@ Os dados são sobre notebooks (laptops), com informações sobre centenas de mod
 
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3679566292640692/4405525316613061/1968454162307818/latest.html
 
-
+ [Analise_Dados_SQL](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3679566292640692/4405525316613061/1968454162307818/latest.html).
 ## Objetivo do Projeto
 
 O objetivo deste projeto é explorar um conjunto de dados e extrair insights valiosos através da linguagem SQL. Utilizamos técnicas de análise exploratória de dados e visualização, focando em entender um pouco mais sobre as relações de marcas e preços com algumas especificações técnicas, participação em mercado e etc.
